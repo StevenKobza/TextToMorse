@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\anaki\source\repos\texttomorse\texttomorse\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+  textToMorse.vcxproj -> C:\Users\anaki\source\repos\textToMorse\Debug\textToMorse.exe
